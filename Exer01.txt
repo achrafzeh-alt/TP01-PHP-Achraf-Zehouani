@@ -1,0 +1,8 @@
+Exercice 01:
+
+1-
+PHP : Exécute sur le serveur, le serveur interprète le code PHP et renvoie du HTML pur au navigateur.
+HTML, CSS, JavaScript : Interprétés dans le navigateur, c'est le client qui les affiche et les exécute.
+
+2-
+Parce que le code PHP a besoin d'un moteur/interpréteur pour s'exécuter. Le navigateur seul ne comprend pas le PHP, il a besoin que le serveur web traite le fichier .php d'abord et lui envoie le résultat final.
